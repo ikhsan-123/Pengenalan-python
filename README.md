@@ -1,2 +1,3 @@
 Seseorang sedang merasa bosan dan orang tersebut memutuskan membuat sebuah program untuk menghibur dirinya, namun ia tidak ingin hal yang biasa saja ia ingin menghibur dirinya sekaligus menambah kosakata baru, dan orang itu memutuskan untuk membuat program acak kata. Pertama ia memasukan kata yang ingin di acak setelah itu kata tersebut di ubah dan di acak kemudian kata tersebut di susun kembali namun dengan posisi perhuruf yang tidak beraturan, setelah puas dengan hasil dari huruf tersebut yang ia melihat dan ingin mengenerate lagi nama atau kata yang ia inginkan, hingga suatu saat ia menjadi bosan dan memutuskan untuk mengakhiri sesi mengacak kata. 
-![Uploading photo1711863368 (1).jpeg…]()
+
+![photo1711863368 (1)](https://github.com/ikhsan-123/Pengenalan-python/assets/145566512/ede4a3f3-0c08-4754-b97e-ec8b389ad544)
